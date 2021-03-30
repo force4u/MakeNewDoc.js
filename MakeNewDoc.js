@@ -1,4 +1,5 @@
 ﻿//MakeNewDoc.js　初回作成　2021年３月２８日
+//2021年３月３０日　リーダーで使用できない対応を加えた
 //http://force4u.cocolog-nifty.com/
 /*
 Public Domain
